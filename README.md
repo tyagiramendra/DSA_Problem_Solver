@@ -1,6 +1,7 @@
 # DSA Solver
 
-This project aims to create an AI agent capable of solving Data Structures and Algorithms (DSA) problems.
+This project aims to create an AI agent capable of solving Data Structures and Algorithms (DSA) problems. It leverages a multi-agent system built with AutoGen to break down the problem-solving process into manageable steps.The system includes agents for understanding the problem, generating code, creating test cases, and executing/verifying the solution.
+
 
 ## Features
 
